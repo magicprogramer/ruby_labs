@@ -138,12 +138,16 @@ while true
     when 3
         puts "enter book ISBN : "
         isbn = gets.chomp
-        remove_book(isbn)
+        if !remove_book(isbn)
+            puts "doesn't exist"
+        else
+            puts "book removed"
+        end
     when 4
         puts "enter book title : "
         title = gets.chomp
         book = search_by_title(title)
-        if book != nil
+        if book
             print_book(book)
         else
             puts "doesn't exist"
@@ -152,7 +156,7 @@ while true
         puts "enter book author : "
         author = gets.chomp
         books = search_by_author(author)
-        if books != nil
+        if books.length > 0
             books.each do |book|
                 print_book(book)
             end
