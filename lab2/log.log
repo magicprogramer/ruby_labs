@@ -1,0 +1,35 @@
+2025-05-31 15:52:27 +0300: INFO: Processing transaction of value -20 for user Ali, Processing transaction of value -30 for user Ali, Processing transaction of value -50 for user Ali, Processing transaction of value -100 for user Ali, Processing transaction of value -100 for user Ali, Processing transaction of value -100 for user Menna
+2025-05-31 15:52:27 +0300: INFO: Transaction of value -20 for user Ali processed successfully
+2025-05-31 15:52:27 +0300: INFO: Transaction of value -30 for user Ali processed successfully
+2025-05-31 15:52:27 +0300: INFO: Transaction of value -50 for user Ali processed successfully
+2025-05-31 15:52:27 +0300: INFO: Transaction of value -100 for user Ali processed successfully
+2025-05-31 15:52:27 +0300: WARNING: Ali has a balance = 0
+2025-05-31 15:52:27 +0300: ERROR: User Menna not found in bank
+2025-05-31 15:58:39 +0300: INFO: Processing transaction of value -20 for user Ali, Processing transaction of value -30 for user Ali, Processing transaction of value -50 for user Ali, Processing transaction of value -100 for user Ali, Processing transaction of value -100 for user Ali, Processing transaction of value -100 for user Menna
+2025-05-31 15:58:39 +0300: INFO: Transaction of value -20 for user Ali processed successfully
+2025-05-31 15:58:39 +0300: INFO: Transaction of value -30 for user Ali processed successfully
+2025-05-31 15:58:39 +0300: INFO: Transaction of value -50 for user Ali processed successfully
+2025-05-31 15:58:39 +0300: INFO: Transaction of value -100 for user Ali processed successfully
+2025-05-31 15:58:39 +0300: WARNING: Ali has a balance = 0
+2025-05-31 15:58:39 +0300: ERROR: User Menna not found in bank
+2025-05-31 15:59:19 +0300: INFO: Processing transaction of value -20 for user Ali, Processing transaction of value -30 for user Ali, Processing transaction of value -50 for user Ali, Processing transaction of value -100 for user Ali, Processing transaction of value -100 for user Ali, Processing transaction of value -100 for user Menna
+2025-05-31 15:59:19 +0300: INFO: Transaction of value -20 for user Ali processed successfully
+2025-05-31 15:59:19 +0300: INFO: Transaction of value -30 for user Ali processed successfully
+2025-05-31 15:59:19 +0300: INFO: Transaction of value -50 for user Ali processed successfully
+2025-05-31 15:59:19 +0300: INFO: Transaction of value -100 for user Ali processed successfully
+2025-05-31 15:59:19 +0300: WARNING: Ali has a balance = 0
+2025-05-31 15:59:19 +0300: ERROR: User Menna not found in bank
+2025-05-31 16:04:34 +0300: INFO: Processing transaction of value -20 for user Ali, Processing transaction of value -30 for user Ali, Processing transaction of value -50 for user Ali, Processing transaction of value -100 for user Ali, Processing transaction of value -100 for user Ali, Processing transaction of value -100 for user Menna
+2025-05-31 16:04:34 +0300: INFO: Transaction of value -20 for user Ali processed successfully
+2025-05-31 16:04:34 +0300: INFO: Transaction of value -30 for user Ali processed successfully
+2025-05-31 16:04:34 +0300: INFO: Transaction of value -50 for user Ali processed successfully
+2025-05-31 16:04:34 +0300: INFO: Transaction of value -100 for user Ali processed successfully
+2025-05-31 16:04:34 +0300: WARNING: Ali has a balance = 0
+2025-05-31 16:04:34 +0300: ERROR: User Menna not found in bank
+2025-05-31 16:06:27 +0300: INFO: Processing transaction of value -20 for user Ali, Processing transaction of value -30 for user Ali, Processing transaction of value -50 for user Ali, Processing transaction of value -100 for user Ali, Processing transaction of value -100 for user Ali, Processing transaction of value -100 for user Menna
+2025-05-31 16:06:27 +0300: INFO: Transaction of value -20 for user Ali processed successfully
+2025-05-31 16:06:27 +0300: INFO: Transaction of value -30 for user Ali processed successfully
+2025-05-31 16:06:27 +0300: INFO: Transaction of value -50 for user Ali processed successfully
+2025-05-31 16:06:27 +0300: INFO: Transaction of value -100 for user Ali processed successfully
+2025-05-31 16:06:27 +0300: WARNING: Ali has a balance = 0
+2025-05-31 16:06:27 +0300: ERROR: User Menna not found in bank
