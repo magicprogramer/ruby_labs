@@ -1,6 +1,6 @@
 module Logger
     def write(msg)
-      File.open("log.log", "a") do |file|
+      File.open("app.log", "a") do |file|
         file.puts(msg)
       end
     end
