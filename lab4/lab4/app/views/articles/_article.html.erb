@@ -1,0 +1,25 @@
+<div id="<%= dom_id article %>">
+  <p>
+    <strong>Title:</strong>
+    <%= article.title %>
+  </p>
+<p>
+<%= asset_path('404.png') %>
+
+    <strong>Image:</strong>
+    <% if article.image? %>
+    <%= image_tag article.image.url, alt: article.title, style: "max-width: 200px; max-height: 200px;" %>
+    <% else %>
+    <img src="/404.png" alt="Image not found" style="max-width: 200px; max-height: 200px;">
+    <% end %>
+  <p>
+    <strong>Archived:</strong>
+    <%= article.archived %>
+  </p>
+
+  <p>
+    <strong>User:</strong>
+    <%= article.user.email %>
+  </p>
+
+</div>
